@@ -1,0 +1,14 @@
+redis:
+  host: redis
+  port: 6379
+  password: your_redis_password
+
+postgres:
+  host: postgres
+  db: your_db
+  user: your_user
+  password: your_password
+
+nginx:
+  host: nginx
+  port: 80
